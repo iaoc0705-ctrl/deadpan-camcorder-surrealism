@@ -1,0 +1,4 @@
+interface:
+  display_name: "Deadpan Camcorder Surrealism"
+  short_description: "Generate deadpan surreal MiniDV-style still images"
+  default_prompt: "Use $deadpan-camcorder-surrealism to draft three text concepts, select the strongest one, and generate one original deadpan-surreal camcorder still."
